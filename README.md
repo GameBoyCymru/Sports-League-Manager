@@ -65,4 +65,4 @@ Simply enter the corresponding number for the action you want to perform.
 
 ## Contributors
 
-Joshua Thomas (`joshuathomas22`).
+Joshua Thomas (`GameBoyCymru`).
